@@ -67,7 +67,7 @@ TodoApi/
     "Key": "ElultramegaPassword123!@"
   },
   "ConnectionStrings": {
-    "DefaultConnections": "Host=localhost;Port=5432;Database=tododb;Username=pc;Password=yerytech"
+    "DefaultConnections": "Host=localhost;Port=puerto;Database=bd;Username=usuario;Password=contrasena"
   }
 }
 ```
